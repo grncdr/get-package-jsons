@@ -1,0 +1,19 @@
+{
+  "name": "get-package-jsons",
+  "version": "0.0.0",
+  "description": "attach package.json contents to a dependency stream",
+  "main": "index.js",
+  "dependencies": {
+    "semver": "~1.1.4",
+    "through": "~2.3.4",
+    "request": "~2.21.0",
+    "map-stream": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT"
+}
